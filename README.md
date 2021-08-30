@@ -1,4 +1,4 @@
-## Website Name:MyPortfolio.
+## Website Name: MyPortfolio.
 This is one of my first webpage to create after a guidance by the Moringa School LMS and the Technical Mentors at Moringa. This is Week1's Independent Project regards to the school.
 Date: 27 Friday August 2021.
 Developer: Mureithi Ivy.
