@@ -56,6 +56,10 @@ header{
     background-color: brown;
 }
 
+.hobbies{
+    font-size: 1.5rem;
+}
+
 #project-title{
     text-align: center;
     color: blue;
