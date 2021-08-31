@@ -7,7 +7,7 @@ Developer: Mureithi Ivy.
 This website contains information pertaining to me including my Background Information, Skills, Hobbies, Completed Projects as well as my Education Background as required by the objectives given upon its creation.
 
 ## Setup/Installation Requirements
-* The github page is currently live thus the following link will take you to the webpage "https://github.com/
+* The github page is currently live thus the following link will take you to the webpage "https://mureithiivy.github.io/MyPortfolio/"
 * As long as you have a compatible browser the document will work
 
 ## Known Bugs
