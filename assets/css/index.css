@@ -37,3 +37,16 @@ header{
     font-size: 4rem;
     font-weight: 900;
 }
+
+.about-me-title{
+    text-align: center;
+    color: blue;
+}
+
+.about-data{
+    display: flex;
+}
+
+#about-me{
+    background-color: brown;
+}
