@@ -57,3 +57,8 @@ header{
     color: blue;
     font-size: 2rem;
 }
+
+.content{
+    position: relative;
+    bottom: 40rem;
+}
