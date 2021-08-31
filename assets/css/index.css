@@ -29,3 +29,11 @@ a{
 header{
     height: 3rem;
 }
+
+.sub-title{
+    position: absolute;
+    padding-left: 22%;
+    bottom: 4rem;
+    font-size: 4rem;
+    font-weight: 900;
+}
